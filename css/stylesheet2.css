@@ -1,0 +1,18 @@
+h1{
+  color: Green;
+}
+
+h2 {
+  font-style: oblique;
+  text-align: center;
+}
+
+p {
+  font-family: Comic;
+  font-weight: 1000;
+}
+
+ul {
+  font-size: 30px;
+  line-height: 40px;
+}
